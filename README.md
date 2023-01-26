@@ -2,9 +2,9 @@
 
 I’m Sneh, your friendly neighborhood CS nerd.
 
-I’m interested in coding, swimming, and speedcubing(my PB is 15.xx secs hehe).
+I’m interested in coding, swimming, gen-z memes and speedcubing(my PB is 15.xx secs hehe).
 
-I like gen-z memes too! *Frog in the supermarket, what will he buy?* 
+> *frog in the supermarket, what will he buy*  
 
 Here’s a list on what I’m upto rn:
 
