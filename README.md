@@ -13,7 +13,7 @@ Here’s a list on what I’m upto rn:
 - ⚡ **Fun fact:** I use Arch btw.
 
 
-<img src="https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width="200" />
+<img src="https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width="400" />
 
 
 <!--
