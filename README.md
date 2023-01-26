@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi there 👋
+
+I’m Sneh, your friendly neighborhood CS nerd.
+
+I’m interested in coding, swimming, and speedcubing(my PB is 15.xx secs hehe).
+
+I like gen-z memes lol.
+
+*Frog in the supermarket, what will he buy?* 
+
+Here’s a list on what I’m upto rn:
+
+- **📚 Learning:** MERN Stack (Currently on React).
+- 🔬 **Working on:** `please check out later :)`
+- ⚡ **Fun fact:** I use Arch btw.
+
+![https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
 
 <!--
 **snehguptafr/snehguptafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
