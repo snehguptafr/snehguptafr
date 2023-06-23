@@ -1,19 +1,4 @@
-# Hi there 👋
 
-I’m Sneh, your friendly neighborhood CS nerd.
-
-I’m interested in coding, swimming, gen-z memes and speedcubing(my PB is 15.xx secs hehe).
-
-> *frog in the supermarket, what will he buy*  
-
-Here’s a list on what I’m upto rn:
-
-- **📚 Learning:** MERN Stack (Currently on React).
-- 🔬 **Working on:** `please check out later :)`
-- ⚡ **Fun fact:** I use Arch btw.
-
-
-<img src="https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg" width="400" />
 
 
 <!--
