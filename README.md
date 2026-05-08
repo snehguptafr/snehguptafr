@@ -1,9 +1,9 @@
 
-# Hello there!
+I do backend, AI, and some frontend when I have no choice.
 
-Readme will be updated soon, stay tuned!
+I build things, break them, fix them, and make them unnecessarily complicated for “educational purposes.”   My deployments live somewhere between _simply lovely_ and Ferrari strategy calls.
 
-
+Outside the terminal, I swim competitively, play water polo, follow tennis and Formula 1, and occasionally disappear into random side quests.
 <!--
 **snehguptafr/snehguptafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
